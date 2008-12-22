@@ -14,8 +14,11 @@ AUTHORS
 * Pedrinho
 * Fulano Ai
 
-
-
 TURBO MEGA ALTERED BEAST
 ===
 * Rise from your grave ...
+
+MILESTONES
+===
+
+* Versao 0.1a released! 
