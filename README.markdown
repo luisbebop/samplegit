@@ -26,3 +26,8 @@ MILESTONES
 
 * Versao 0.1a released! 
 * Inclusao de lista de Bugs
+
+REFERENCES
+===
+
+* http://www.wikipedia.com
