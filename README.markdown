@@ -8,7 +8,7 @@ HELLO GITHUB ....
 AUTHORS
 ===
 
-* Jose
+* Jose da Silva
 * Maria
 * Joao
 * Pedrinho
