@@ -5,3 +5,10 @@ HELLO GITHUB ....
 * item 2
 * item 3
 
+AUTHORS
+===
+
+* Jose
+* Maria
+* Joao
+* Pedrinho
