@@ -22,3 +22,4 @@ MILESTONES
 ===
 
 * Versao 0.1a released! 
+* Inclusao de lista de Bugs
